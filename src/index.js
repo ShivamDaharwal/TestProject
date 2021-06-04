@@ -8,6 +8,7 @@ ReactDOM.render(
       <li>Listening to Music</li>
       <li>Playing chess</li>
       <li>Reading Books</li>
+      <li>Reading Git test</li>
     </ul>
   </div>,
   document.getElementById("root")
